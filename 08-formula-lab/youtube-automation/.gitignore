@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+outputs/
+tmp_audio/
+*.mp4
+*.jpg
+*.png
